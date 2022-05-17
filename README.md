@@ -7,7 +7,7 @@ Then answer in the space below each question:
 
 2. Last name:
 
-3. Favourite animal:monkey
+3. Favourite animal:elephant
 
 
 Now click the green 'commit changes' button at the bottom.
