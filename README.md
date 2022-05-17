@@ -5,7 +5,7 @@ Then answer in the space below each question:
 
 1. First name:Marian
 
-2. Last name:Lin
+2. Last name:
 
 3. Favourite animal:monkey
 
